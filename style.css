@@ -28,7 +28,7 @@ header{
 
 .Retangulo-verde{
     display:flex;
-    background-color:goldenrod;
+    background-color:rgb(12, 75, 12);
     margin: 20px;
     padding: 44px;
     border-radius: 50px;
