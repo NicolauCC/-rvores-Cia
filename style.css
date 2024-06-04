@@ -11,7 +11,7 @@ body{
 }
 
 img{
-    width: 10%;
+    border-radius:25px width: 10%;
     border-radius: 25px;
     border: solid green;
     border-width: 25px 75px 25px 75px;
