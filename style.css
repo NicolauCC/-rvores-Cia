@@ -14,7 +14,7 @@ img{
     width: 10%;
     border-radius: 50px;
     border: solid green;
-    border-width: 50px 50px 50px 50px;
+    border-width: 100px 50px 50px 100px;
 }
 
 header{
