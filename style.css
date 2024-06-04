@@ -12,9 +12,9 @@ body{
 
 img{
     width: 10%;
-    border-radius: 40px;
+    border-radius: 25px;
     border: solid green;
-    border-width: 50px 50px 50px 50px;
+    border-width: 25px 75px 25px 75px;
 }
 
 header{
