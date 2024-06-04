@@ -13,11 +13,8 @@ body{
 img{
     width: 10%;
     border-radius: 50px;
-    border: 10px solid white;
-    margin-top: 50px;
-    margin-bottom: 20px;
-    margin-left: 30px;
-    margin-right: 40px;
+    border: solid green;
+    border-width: 50px 50px 50px 50px;
 }
 
 header{
