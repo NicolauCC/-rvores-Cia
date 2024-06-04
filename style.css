@@ -13,7 +13,7 @@ body{
 img{
     width: 10%;
     border-radius: 25px;
-    border: solid green;
+    border: solid rgb(3, 80, 3);
     border-width: 25px 80px 25px 80px;
 }
 
