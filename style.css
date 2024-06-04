@@ -12,6 +12,8 @@ body{
 
 img{
     width: 10%;
+    border-radius: 50px;
+    border: 10px solid white;
 }
 
 header{
