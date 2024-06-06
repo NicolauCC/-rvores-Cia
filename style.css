@@ -42,6 +42,14 @@ text-align: center;
 
 }
 
+.introducao{
+text-align: center;
+}
+
+#Final{
+text-align: center;
+}
+
 @media screen and (min-width: 1024px){
     
 }
