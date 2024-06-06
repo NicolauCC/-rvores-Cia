@@ -30,6 +30,7 @@ header{
 }
 
 .Retangulo-verde{
+    align-items: center;
     background-color:rgb(12, 75, 12);
     margin: 20px;
     padding: 44px;
