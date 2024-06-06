@@ -11,6 +11,7 @@ body{
 }
 
 .arvorescia-logo-daora{
+    align-items: center;
     width: 10%;
     border-radius: 25px;
     border: solid rgb(6, 94, 6);
@@ -30,7 +31,6 @@ header{
 }
 
 .Retangulo-verde{
-    align-items: center;
     background-color:rgb(12, 75, 12);
     margin: 20px;
     padding: 44px;
