@@ -11,6 +11,7 @@ body{
 }
 
 .arvorescia-logo-daora{
+    border-image: fill;
     width: 10%;
     border-radius: 25px;
     border: solid rgb(6, 94, 6);
