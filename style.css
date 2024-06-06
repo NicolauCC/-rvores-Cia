@@ -39,6 +39,12 @@ header{
     border: 5px solid rgb(255, 255, 255);
 }
 
+.titulo{
+ width:20%;
+
+
+}
+
 @media screen and (min-width: 1024px){
     
 }
