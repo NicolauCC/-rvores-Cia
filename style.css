@@ -189,6 +189,13 @@ list-style-type: square;
                             list-style-type: square;
                             }
 
+                            .retangulo-6{
+                                background-color:rgb(255, 145, 0);
+                                margin: 10px;
+                                padding: 5px;
+                                border-radius: 50px;
+                                }
+
 
         
 
