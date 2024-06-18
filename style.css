@@ -129,3 +129,27 @@ list-style-type: square;
             padding: 5px;
             border-radius: 50px;
         }
+
+        .SABUGUEIRO{
+            align-items: center;
+            width: 101%;
+            }
+            
+            .Titulo-SABUGUEIRO{
+            color:rgb(226, 20, 20);
+            text-align: center;
+            margin-top: 1px;
+            }
+            
+            .Lista-SABUGUEIRO{
+            list-style-type: square;
+            }
+
+            .retangulo-4{
+                background-color:rgb(226, 20, 20);
+                margin: 10px;
+                padding: 5px;
+                border-radius: 50px;
+                }
+
+                
