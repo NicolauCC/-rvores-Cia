@@ -198,7 +198,11 @@ list-style-type: square;
 
                                 .AVISO{
                                 color: red;
-                                text-shadow: #ffffff;                               
+                                text-shadow: 
+                                -1px -1px 0 #fff,  
+                                 1px -1px 0 #fff,
+                                -1px  1px 0 #fff,
+                                 1px  1px 0 #fff;                              
                                 text-align: center;
                                 margin-top: 1px;
 
