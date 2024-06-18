@@ -173,6 +173,23 @@ list-style-type: square;
                         padding: 5px;
                         border-radius: 50px;
                         }
+
+                        .MAMOEIRO{
+                            align-items: center;
+                            width: 101%;
+                            }
+                            
+                            .Titulo-MAMOEIRO{
+                            color:rgb(255, 145, 0);
+                            text-align: center;
+                            margin-top: 1px;
+                            }
+                            
+                            .Lista-MAMOEIRO{
+                            list-style-type: square;
+                            }
+
+
         
 
                 
