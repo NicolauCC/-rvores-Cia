@@ -85,3 +85,19 @@ list-style-type: square;
     border: solid rgb(12, 180, 12)
     border-width:5px 164px 5px 164px;
 }
+
+.EUCALIPTO{
+    align-items: center;
+    width: 101%;
+    }
+    
+    .Titulo-EUCALIPTO{
+    color:rgb(12, 180, 12);
+    text-align: center;
+    margin-top: 1px;
+    }
+    
+    .Lista-EUCALIPTO{
+    list-style-type: square;
+    }
+    
