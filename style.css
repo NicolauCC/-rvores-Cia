@@ -82,7 +82,7 @@ list-style-type: square;
 .retangulo-1{
     background-color:rgb(12, 180, 12);
     margin: 20px;
-    padding: 20px;
+    
     border-radius: 50px;
 }
 
@@ -92,7 +92,7 @@ list-style-type: square;
     }
     
     .Titulo-EUCALIPTO{
-    color:rgb(12, 180, 12);
+    color:rgb(4, 65, 4);
     text-align: center;
     margin-top: 1px;
     }
