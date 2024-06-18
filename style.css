@@ -107,3 +107,18 @@ list-style-type: square;
         padding: 5px;
         border-radius: 50px;
     }
+
+    .ACACIA{
+        align-items: center;
+        width: 101%;
+        }
+        
+        .Titulo-ACACIA{
+        color:rgb(4, 65, 4);
+        text-align: center;
+        margin-top: 1px;
+        }
+        
+        .Lista-ACACIA{
+        list-style-type: square;
+        }
